@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-2(arrays)">
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson-3/main.js" afterDir="false" />
+    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-3(loops)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <workItem from="1722878936387" duration="2162000" />
       <workItem from="1723102131292" duration="2903000" />
       <workItem from="1723113128738" duration="4511000" />
-      <workItem from="1723293216412" duration="4266000" />
+      <workItem from="1723293216412" duration="4728000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson-1(types)">
       <option name="closed" value="true" />
@@ -86,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723118093978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson-3(loops)">
+      <option name="closed" value="true" />
+      <created>1723297832607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723297832607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson-1(types)" />
     <MESSAGE value="Lesson-2(arrays)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson-2(arrays)" />
+    <MESSAGE value="Lesson-3(loops)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-3(loops)" />
   </component>
 </project>
