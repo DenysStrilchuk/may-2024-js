@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-4(functions_part2)" />
+    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-6(array_functions)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,7 @@
       <workItem from="1723293216412" duration="4728000" />
       <workItem from="1723549219216" duration="5481000" />
       <workItem from="1723724997094" duration="333000" />
+      <workItem from="1724068030286" duration="3548000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson-1(types)">
       <option name="closed" value="true" />
@@ -108,7 +109,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723725246831</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson-4(functions_part2)">
+      <option name="closed" value="true" />
+      <created>1724071479777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724071479777</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson-6(array_functions)">
+      <option name="closed" value="true" />
+      <created>1724071549774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724071549774</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson-6(array_functions)">
+      <option name="closed" value="true" />
+      <created>1724071560490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724071560490</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +145,7 @@
     <MESSAGE value="Lesson-3(loops)" />
     <MESSAGE value="Lesson-4(functions_part1)" />
     <MESSAGE value="Lesson-4(functions_part2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson-4(functions_part2)" />
+    <MESSAGE value="Lesson-6(array_functions)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-6(array_functions)" />
   </component>
 </project>
