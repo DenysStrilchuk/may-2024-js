@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-6(array_functions)" />
+    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-7(constructors,class)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +60,7 @@
       <workItem from="1723549219216" duration="5481000" />
       <workItem from="1723724997094" duration="333000" />
       <workItem from="1724068030286" duration="3548000" />
+      <workItem from="1724238032988" duration="5574000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson-1(types)">
       <option name="closed" value="true" />
@@ -133,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724071560490</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson-7(constructors,class)">
+      <option name="closed" value="true" />
+      <created>1724238131999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724238131999</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lesson-7(constructors,class)">
+      <option name="closed" value="true" />
+      <created>1724243894131</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724243894131</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +163,7 @@
     <MESSAGE value="Lesson-4(functions_part1)" />
     <MESSAGE value="Lesson-4(functions_part2)" />
     <MESSAGE value="Lesson-6(array_functions)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson-6(array_functions)" />
+    <MESSAGE value="Lesson-7(constructors,class)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-7(constructors,class)" />
   </component>
 </project>
