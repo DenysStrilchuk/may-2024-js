@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-7(constructors,class)" />
+    <list default="true" id="23d23b35-0e02-48c9-904e-80bfb71fd51b" name="Changes" comment="Lesson-8(oco,spred,json)">
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson-9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson-9/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +65,8 @@
       <workItem from="1723724997094" duration="333000" />
       <workItem from="1724068030286" duration="3548000" />
       <workItem from="1724238032988" duration="5574000" />
+      <workItem from="1724579009110" duration="859000" />
+      <workItem from="1724844751079" duration="3534000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson-1(types)">
       <option name="closed" value="true" />
@@ -150,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724243894131</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson-8(oco,spred,json)">
+      <option name="closed" value="true" />
+      <created>1724579875961</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724579875961</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +178,7 @@
     <MESSAGE value="Lesson-4(functions_part2)" />
     <MESSAGE value="Lesson-6(array_functions)" />
     <MESSAGE value="Lesson-7(constructors,class)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson-7(constructors,class)" />
+    <MESSAGE value="Lesson-8(oco,spred,json)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-8(oco,spred,json)" />
   </component>
 </project>
